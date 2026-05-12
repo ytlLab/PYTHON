@@ -19,6 +19,8 @@ Python basic syntax and web scraping module operations</br>
 #### [ch15_臉部辨識分析](https://github.com/ytlLab/python/blob/main/ch15.md)
 #### [ch16_圖片內容偵測](https://github.com/ytlLab/python/blob/main/ch16.md)
 
+
+
 ---
 Reference books：</br>
 Python自學聖經：從程式素人到開發強者的技術、實戰與AI應用大全</br>
